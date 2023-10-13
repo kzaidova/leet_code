@@ -1,12 +1,12 @@
 class Solution:
     def reverseString(self, s: list[str]) -> None:
-        n = len(s)
-        k = len(s) // 2
-        for i in range(0, k):
+        len_s = len(s)
+        len_s_sep_on_2 = len(s) // 2
+        for i in range(0, len_s_sep_on_2):
             a = s[i]
-            j = n-i-1
-            s[i] = s[j]
-            s[j] = a
+            symmetric = len_s-i-1
+            s[i] = s[symmetric]
+            s[symmetric] = a
         print(s)
         return s
 
