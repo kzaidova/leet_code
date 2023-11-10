@@ -21,7 +21,3 @@ class Solution:
 abc = Solution()
 
 abc.strStr(haystack = "sadbutsad", needle = "sad")
-
-
-nums = [1,3,5,6]
-print(len(nums))
