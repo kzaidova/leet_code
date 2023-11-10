@@ -1,6 +1,5 @@
 
 class Solution:
-
     def isPalindrome(self, x: int) -> bool:
         if x < 0:
             return False
@@ -22,7 +21,6 @@ a.isPalindrome(x = 12321)
 
 
 class Solution_2:
-
     def isPalindrome(self, x: int) -> bool:
         for i in range(0, len(str(x))):
             a = str(x)

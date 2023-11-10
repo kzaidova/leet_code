@@ -9,5 +9,7 @@ class Solution:
             s[symmetric] = a
         print(s)
         return s
+a = Solution()
+a.reverseString(s = ['п','р','и','в','е','т'])
 
 
