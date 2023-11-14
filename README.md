@@ -19,3 +19,5 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ 
 
 https://leetcode.com/problems/valid-palindrome/
+
+https://leetcode.com/problems/majority-element
