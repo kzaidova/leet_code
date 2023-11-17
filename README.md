@@ -27,3 +27,5 @@ https://leetcode.com/problems/missing-number/
 https://leetcode.com/problems/valid-anagram/
 
 https://leetcode.com/problems/happy-number/
+
+https://leetcode.com/problems/excel-sheet-column-number/
