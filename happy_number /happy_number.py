@@ -27,11 +27,5 @@ class Solution:
             a.add(sums)
             n = sums
 
-
-
-
-
-
-
 a = Solution()
 a.isHappy(n = 2)
