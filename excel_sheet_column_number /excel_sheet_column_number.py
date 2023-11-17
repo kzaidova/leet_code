@@ -22,3 +22,5 @@ class Solution:
 a = Solution()
 a.titleToNumber(columnTitle = "XXX")
 
+
+
