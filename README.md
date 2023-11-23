@@ -29,3 +29,9 @@ https://leetcode.com/problems/valid-anagram/
 https://leetcode.com/problems/happy-number/
 
 https://leetcode.com/problems/excel-sheet-column-number/
+
+https://leetcode.com/problems/merge-strings-alternately/
+
+https://leetcode.com/problems/greatest-common-divisor-of-strings/
+
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
